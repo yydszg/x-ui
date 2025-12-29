@@ -39,7 +39,7 @@
 &#x26A1;从原版升级也可使用该命令，数据不会丢失&#x26A1;
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/yydszg/x-ui/master/install.sh)
 ```    
 For English Users,please use the following command to install English supported version:  
 ```
@@ -47,7 +47,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/insta
 ```
 如需安装指定的版本,可以在上述命令中指定版本号,如指定版本为`0.3.4.4`,安装命令如下：    
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh) 0.3.4.4   
+bash <(curl -Ls https://raw.githubusercontent.com/yydszg/x-ui/master/install.sh) 0.3.4.4 
 ```
 
 # 效果预览  
@@ -219,3 +219,4 @@ VPS推送可关注电报[频道](https://t.me/VpsReStockAlert)
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/FranzKafkaYu/x-ui.svg)](https://starchart.cc/FranzKafkaYu/x-ui)
+
